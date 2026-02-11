@@ -13,9 +13,8 @@
 <h2>📊 GitHub Stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=moaz9980&show_icons=true&theme=tokyonight" />
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=moaz9980&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaz9980&layout=compact&theme=tokyonight" />
 </p>
 
 
