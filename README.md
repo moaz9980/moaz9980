@@ -15,9 +15,7 @@
 <p>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=moaz9980&theme=tokyonight" />
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moaz9980&layout=compact&theme=tokyonight" alt="Top Languages" />
-](https://github-readme-stats.vercel.app/api/top-langs/?username=moaz9980&layout=compact&theme=tokyonight
-)
+
 
 </p>
 
