@@ -24,7 +24,9 @@
   <br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([[www.linkedin.com/in/moaz-mossad-283b42334](https://www.linkedin.com/in/moaz-mossad-283b42334/](https://www.linkedin.com/in/moaz-mossad-283b42334/))) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moazmossad000982@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(linkedin.com/in/moaz-mossad
+)]
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moazmossad000982@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
