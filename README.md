@@ -4,8 +4,8 @@
 <p>Welcome to my page! </br> I'm Moaz Mossad, Software Engineer from  <b>Cairo , Egypt</b>
 <h3>Things I code with</h3>
 <p>
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Docker" src="[https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)" />
+  https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000
+   <img alt="Javascript" src=" https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
